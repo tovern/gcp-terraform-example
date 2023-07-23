@@ -1,6 +1,6 @@
 terraform {
- backend "gcs" {
-   bucket  = "ten-ops-o-gsb-terraform-state"
-   prefix  = "terraform/foundation/prod/projects"
- }
+  backend "gcs" {
+    bucket = "ten-ops-o-gsb-terraform-state"
+    prefix = "terraform/foundation/prod/projects"
+  }
 }
