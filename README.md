@@ -20,7 +20,7 @@ Allows hosted services to be deployed ontop of the secure foundation. These serv
 - Cloud SQL
 - Buckets
 - GKE
-- Cloud Run AServices
+- Cloud Run Services
 
 # Application
 
